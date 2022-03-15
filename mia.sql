@@ -226,8 +226,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost', 'yes'),
-(2, 'home', 'http://localhost', 'yes'),
+(1, 'siteurl', 'http://196.200.156.88', 'yes'),
+(2, 'home', 'http://196.200.156.88', 'yes'),
 (3, 'blogname', 'mia', 'yes'),
 (4, 'blogdescription', 'Just another WordPress site', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
